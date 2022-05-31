@@ -15,9 +15,9 @@ header-includes: |
     \lhead{Patrick Nsukami}
     \rfoot{Page \thepage}
     \hypersetup{pdftex,
-            pdfauthor={Patrick Nsukami},
+            pdfauthor={Luc Ouedraogo},
             pdftitle={Introduction to Python programming},
-            pdfsubject={Introduction to Python programming},
+            pdfsubject={Python  Package programming},
             pdfkeywords={Python, Programming},
             pdfproducer={Emacs, Pandoc, Latex, Markdown},
             pdfcreator={Emacs, Pandoc, Latex, Markdown}}
